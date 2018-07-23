@@ -29,7 +29,7 @@ if __name__  == '__main__':
 
 
 
-
+# if calling this script in an IDE for dynamic execution as program, run exec(open("tests.py").read())
 # References: https://cgoldberg.github.io/python-unittest-tutorial/    
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
